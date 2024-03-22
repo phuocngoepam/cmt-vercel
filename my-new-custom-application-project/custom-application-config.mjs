@@ -13,7 +13,7 @@ const config = {
     },
     production: {
       applicationId: 'clu0m8c4g000g5kdznv0kpyrq',
-      url: 'https://your_app_hostname.com',
+      url: 'https://cmt-vercel.vercel.app',
     },
   },
   oAuthScopes: {
